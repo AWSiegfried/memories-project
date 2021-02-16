@@ -6,4 +6,5 @@ React <br>
 Node <br>
 Redux <br>
 Material UI <br>
-Deployed on Heroku
+Backend deployed on Heroku <br>
+Frontend deployed on Netlify
